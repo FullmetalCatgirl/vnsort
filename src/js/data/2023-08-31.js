@@ -12,7 +12,7 @@ dataSet[dataSetVersion].options = [
             { name: "ATRI -My Dear Moments-", tooltip: "ATRI -My Dear Moments-", key: "atri"},
             { name: "Café Stella and the Reapers' Butterflies", tooltip: "喫茶ステラと死神の蝶", key: "stella"},
             { name: "Fureraba ~ Friend to Lover~", tooltip: "フレラバ ~Friend to Lover~", key:"fureraba"},
-            { name: ""}
+            { name: "KamiYaba: Destiny on a Dicey Deadline", tooltip: "神頼みしすぎて俺の未来がヤバい", key:"kami"},
         ]
     },
     {
@@ -43,8 +43,7 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
     {
-        name: "Hinata Masaya",
-        game: "Aokana",
+        name: "Hinata Masaya \n Aokana",
         img: "5FurVqL.png",
         opts: {
             game: ["aokana"],
@@ -53,8 +52,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Arisaka Mashiro",
-        game: "Aokana",
+        name: "Arisaka Mashiro \n Aokana",
         img: "rbYidTN.png",
         opts: {
             game: ["aokana"],
@@ -63,8 +61,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Ichinose Rika",
-        game: "Aokana",
+        name: "Ichinose Rika \n Aokana",
         img: "9kPT5qA.png",
         opts: {
             game: ["aokana"],
@@ -73,8 +70,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Kurashina Asuka",
-        game: "Aokana",
+        name: "Kurashina Asuka \n Aokana",
         img: "pHUn4gS.png",
         opts: {
             game: ["aokana"],
@@ -83,8 +79,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Tobisawa Misaki",
-        game: "Aokana",
+        name: "Tobisawa Misaki \n Aokana",
         img: "tOxV3Mf.png",
         opts: {
             game: ["aokana"],
@@ -93,8 +88,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Aoyagi Madoka",
-        game: "Aokana",
+        name: "Aoyagi Madoka \n Aokana",
         img: "M5laH8p.png",
         opts: {
             game: ["aokana"],
@@ -103,8 +97,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Aoyagi Shion",
-        game: "Aokana",
+        name: "Aoyagi Shion \n Aokana",
         img: "iz1rHGJ.png",
         opts: {
             game: ["aokana"],
@@ -113,8 +106,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Arisaka Botan",
-        game: "Aokana",
+        name: "Arisaka Botan \n Aokana",
         img: "qgOMPyq.png",
         opts: {
             game: ["aokana"],
@@ -123,8 +115,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Fukumen",
-        game: "Aokana",
+        name: "Fukumen \n Aokana",
         img: "APBG61C.png",
         opts: {
             game: ["aokana"],
@@ -133,8 +124,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Ganeko Mayu",
-        game: "Aokana",
+        name: "Ganeko Mayu \n Aokana",
         img: "6Ue5Gc1.png",
         opts: {
             game: ["aokana"],
@@ -143,8 +133,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Hosaka Minori",
-        game: "Aokana",
+        name: "Hosaka Minori \n Aokana",
         img: "jliGMrl.png",
         opts: {
             game: ["aokana"],
@@ -153,8 +142,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Inui Saki",
-        game: "Aokana",
+        name: "Inui Saki \n Aokana",
         img: "uG1hECu.png",
         opts: {
             game: ["aokana"],
@@ -163,8 +151,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Irina Avalon",
-        game: "Aokana",
+        name: "Irina Avalon \n Aokana",
         img: "cMtNYuQ.png",
         opts: {
             game: ["aokana"],
@@ -173,8 +160,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Kagami Aoi",
-        game: "Aokana",
+        name: "Kagami Aoi \n Aokana",
         img: "GYc0sPz.png",
         opts: {
             game: ["aokana"],
@@ -183,8 +169,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Kurobuchi Kasumi",
-        game: "Aokana",
+        name: "Kurobuchi Kasumi \n Aokana",
         img: "PP51D4l.png",
         opts: {
             game: ["aokana"],
@@ -193,8 +178,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Okoze Arika",
-        game: "Aokana",
+        name: "Okoze Arika \n Aokana",
         img: "I9MA9oJ.png",
         opts: {
             game: ["aokana"],
@@ -203,8 +187,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Satou Reiko",
-        game: "Aokana",
+        name: "Satou Reiko \n Aokana",
         img: "eCzsD0J.png",
         opts: {
             game: ["aokana"],
@@ -213,8 +196,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Shindou Kazunari",
-        game: "Aokana",
+        name: "Shindou Kazunari \n Aokana",
         img: "u38JCZg.png",
         opts: {
             game: ["aokana"],
@@ -223,8 +205,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Shirase Hayato",
-        game: "Aokana",
+        name: "Shirase Hayato \n Aokana",
         img: "tbqkPw8.png",
         opts: {
             game: ["aokana"],
@@ -233,8 +214,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Shirase Minamo",
-        game: "Aokana",
+        name: "Shirase Minamo \n Aokana",
         img: "OI23DMy.png",
         opts: {
             game: ["aokana"],
@@ -243,7 +223,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Takamine Kousei",
+        name: "Takamine Kousei \n Café Stella",
         img: "0CjdIWo.png",
         opts: {
             game: ["stella"],
@@ -252,7 +232,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Akizuki Kanna",
+        name: "Akizuki Kanna \n Café Stella",
         img: "sFcLLOk.png",
         opts: {
             game: ["stella"],
@@ -261,7 +241,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Hiuchidani Mei",
+        name: "Hiuchidani Mei \n Café Stella",
         img: "JK1Di5b.png",
         opts: {
             game: ["stella"],
@@ -270,7 +250,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Shiki Natsume",
+        name: "Shiki Natsume \n Café Stella",
         img: "iAAc8Ha.png",
         opts: {
             game: ["stella"],
@@ -279,7 +259,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Shioyama Suzune",
+        name: "Shioyama Suzune \n Café Stella",
         img: "kn5qE14.png",
         opts: {
             game: ["stella"],
@@ -288,7 +268,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Sumizome Nozomi",
+        name: "Sumizome Nozomi \n Café Stella",
         img: "KKUE2On.png",
         opts: {
             game: ["stella"],
@@ -297,7 +277,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Mikado",
+        name: "Mikado \n Café Stella",
         img: "nqVQOES.png",
         opts: {
             game: ["stella"],
@@ -306,7 +286,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Shioyama Hiroto",
+        name: "Shioyama Hiroto \n Café Stella",
         img: "M4jdjf2.png",
         opts: {
             game: ["stella"],
@@ -315,7 +295,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Takamine Kazufumi",
+        name: "Takamine Kazufumi \n Café Stella",
         img: "36EbSx9.png",
         opts: {
             game: ["stella"],
@@ -324,7 +304,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Aoba Kyosuke",
+        name: "Aoba Kyosuke \n Fureraba",
         img: "qo8gaok.png",
         opts: {
             game: ["fureraba"],
@@ -333,7 +313,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Hiiragi Yuzuyu",
+        name: "Hiiragi Yuzuyu \n Fureraba",
         img: "O2POfvV.png",
         opts: {
             game: ["fureraba"],
@@ -342,7 +322,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Minahara Himari",
+        name: "Minahara Himari \n Fureraba",
         img: "WEgFncj.png",
         opts: {
             game: ["fureraba"],
@@ -351,7 +331,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Mochizuki Rina",
+        name: "Mochizuki Rina \n Fureraba",
         img: "LE89ywq.png",
         opts: {
             game: ["fureraba"],
@@ -360,7 +340,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Sawatari Misaki",
+        name: "Sawatari Misaki \n Fureraba",
         img: "ksXblfC.png",
         opts: {
             game: ["fureraba"],
@@ -369,7 +349,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Ayabe Mahiro",
+        name: "Ayabe Mahiro \n Fureraba",
         img: "DyJtg9i.png",
         opts: {
             game: ["fureraba"],
@@ -378,7 +358,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Kondou Masayoshi",
+        name: "Kondou Masayoshi \n Fureraba",
         img: "FdRWxUS.png",
         opts: {
             game: ["fureraba"],
@@ -387,7 +367,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Misumi Mako",
+        name: "Misumi Mako \n Fureraba",
         img: "xQVNVDw.png",
         opts: {
             game: ["fureraba"],
@@ -396,7 +376,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Nonomura Tomomi",
+        name: "Nonomura Tomomi \n Fureraba",
         img: "dLhBOt1.png",
         opts: {
             game: ["fureraba"],
@@ -405,7 +385,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Seno Genki",
+        name: "Seno Genki \n Fureraba",
         img: "8bZBW0j.png",
         opts: {
             game: ["fureraba"],
@@ -414,7 +394,7 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Sugasaki Momo",
+        name: "Sugasaki Momo \n Fureraba",
         img: "EMcZWnC.png",
         opts: {
             game: ["fureraba"],
@@ -423,8 +403,8 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Ikaruga Natsuki",
-        img: "",
+        name: "Ikaruga Natsuki \n ATRI",
+        img: "8LKqu32.png",
         opts: {
             game: ["atri"],
             role: ["protag"],
@@ -432,8 +412,8 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Atri",
-        img: "",
+        name: "Atri \n ATRI",
+        img: "WY7wmVp.png",
         opts: {
             game: ["atri"],
             role: ["main"],
@@ -441,8 +421,8 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Catherine",
-        img: "",
+        name: "Catherine \n ATRI",
+        img: "VKe9ET7.png",
         opts: {
             game: ["atri"],
             role: ["noroute"],
@@ -450,8 +430,8 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Kamishiro Minamo",
-        img: "",
+        name: "Kamishiro Minamo \n ATRI",
+        img: "nzWYDU7.png",
         opts: {
             game: ["atri"],
             role: ["noroute"],
@@ -459,8 +439,8 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Nanami Ririka",
-        img: "",
+        name: "Nanami Ririka \n ATRI",
+        img: "39i6HkC.png",
         opts: {
             game: ["atri"],
             role: ["noroute"],
@@ -468,10 +448,82 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Nojima Ryuuji",
-        img: "",
+        name: "Nojima Ryuuji \n ATRI",
+        img: "NRbFXuc.png",
         opts: {
             game: ["atri"],
+            role: ["noroute"],
+            male: true
+        }
+    },
+    {
+        name: "Kanbayashi Hajime \n KamiYaba",
+        img: "MLN6wsF.png",
+        opts: {
+            game: ["kami"],
+            role: ["protag"],
+            male: true
+        }
+    },
+    {
+        name: "Akagi Suzuna \n KamiYaba",
+        img: "DBIibPe.png",
+        opts: {
+            game: ["kami"],
+            role: ["main"],
+            girl: true
+        }
+    },
+    {
+        name: "Kanbayashi Urara \n KamiYaba",
+        img: "gCKQm7E.png",
+        opts: {
+            game: ["kami"],
+            role: ["main"],
+            girl: true
+        }
+    },
+    {
+        name: "Nagumo Nanami \n KamiYaba",
+        img: "4VDndQZ.png",
+        opts: {
+            game: ["kami"],
+            role: ["main"],
+            girl: true
+        }
+    },
+    {
+        name: "Suou Yukari \n KamiYaba",
+        img: "aviskXl.png",
+        opts: {
+            game: ["kami"],
+            role: ["main"],
+            girl: true
+        }
+    },
+    {
+        name: "Kanbayashi Mao \n KamiYaba",
+        img: "vqb8kFx.png",
+        opts: {
+            game: ["kami"],
+            role: ["side"],
+            girl: true
+        }
+    },
+    {
+        name: "Sakashiro Hanayo \n KamiYaba",
+        img: "UK3Ynz3.png",
+        opts: {
+            game: ["kami"],
+            role: ["side"],
+            girl: true
+        }
+    },
+    {
+        name: "Yonaga Taizen \n KamiYaba",
+        img: "v6I9IaW.png",
+        opts: {
+            game: ["kami"],
             role: ["noroute"],
             male: true
         }
