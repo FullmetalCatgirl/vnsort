@@ -293,11 +293,14 @@ function display() {
   document.querySelector('.right.sort.image').src = rightChar.img;
 
   const gameNameDisp = game => {
-    const gameName = reduceTextWidth(game, "Arial 11px", 160)
+    const gameName = reduceTextWidth(game, "Arial 11px", 160);
+    return `<p title=${gameName}</p>`;
   };
 
   document.querySelector('.left.sort.text').innerHTML = charNameDisp(leftChar.name);
   document.querySelector('.right.sort.text').innerHTML = charNameDisp(rightChar.name);
+  document.querySelector('.left.sort.text').innerHTML = gameNameDisp(leftChar.game);
+  document.querySelector('.right.sort.text').innerHTML = gameNameDisp(rightChar.game);
 
   /** Autopick if choice has been given. */
   if (choices.length !== battleNo - 1) {
