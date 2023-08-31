@@ -292,7 +292,9 @@ function display() {
   document.querySelector('.left.sort.image').src = leftChar.img;
   document.querySelector('.right.sort.image').src = rightChar.img;
 
-  
+  const gameNameDisp = game => {
+    const gameName = reduceTextWidth(game, "Arial 11px", 160)
+  };
 
   document.querySelector('.left.sort.text').innerHTML = charNameDisp(leftChar.name);
   document.querySelector('.right.sort.text').innerHTML = charNameDisp(rightChar.name);
